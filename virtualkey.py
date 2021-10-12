@@ -10,7 +10,7 @@ Information regarding Microsoft Windows codes could be found online:
     Mouse events:
         https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-mouse_event
 """
-
+# Start
 import ctypes
 from time import sleep
 import subprocess
