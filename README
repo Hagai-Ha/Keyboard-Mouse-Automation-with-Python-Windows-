@@ -1,0 +1,8 @@
+This Python script takes advantage of Microsoft Windows Virtual Keys codes, using ctypes, in order to automatically control the computer's keyboard and mouse actions.
+It includes mapping to both English and Hebrew keyboards.
+
+Information regarding Microsoft Windows codes could be found online:
+    Virtual-key codes:
+        https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
+    Mouse events:
+        https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-mouse_event
